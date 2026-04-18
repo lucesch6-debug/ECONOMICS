@@ -1,0 +1,134 @@
+﻿=== Page 1 ===
+Consumption and behavior ECON21- Lab 2 lyon business school we are makers
+
+=== Page 2 ===
+ECON21 Microeconomics 1. 2. 3. 4. 5. Production and firms Consumption and behavior Strategic interactions Industrial organization Incentives Macroeconomics 6. 7. 8. 9. 10. Inflation and unemployment GDP and fiscal policy Money and monetary policy Environment Growth 000 O t} 8
+
+=== Page 3 ===
+Agenda Series of experiments Debriefing 3
+
+=== Page 4 ===
+Questionnaires We will now distribute the questionnaires. Please complete your own questionnaire without communicating or looking at others' answers. This is essential for the validity of the results. It is not an exam. Simply answer honestly and thoughtfully about what you would do in the given situations. 4
+
+=== Page 5 ===
+Please complete your questionnaire Answer individually: no talking, no looking at others' answers
+
+=== Page 6 ===
+Once the questionnaires are completed Look at the code in the bottom right corner of your sheet: If it says A, you are in Group A. If it says B, you are in Group B. The questionnaires were handed out randomly, creating two groups. We will now compare your answers to see whether the groups respond differently. 6
+
+=== Page 7 ===
+Experiment 1
+
+=== Page 8 ===
+Same Menu for Groups A and B Restaurant "The Ephemeral Sky " This temporary restaurant offers a unique experience where each visit is a surprise. Its magical and futuristic atmosphere transports guests to an enchanting universe. The menu, consisting of creative and daring cuisine, uses exotic and seasonal ingredients to awaken the senses. Menu: Starters Sea cloud: Foamy prawns accompanied by crispy seaweed, placed on a cloud of lemongrass and yuzu. Or Melting stars: ravioli stuffed with goat cheese and black truffle, served with a shower of edible star powder. Main dishes Erupting Volcano: Melting Wagyu beef tenderloin, topped with a smoky potato mousse, reminiscent of a delicious volcanic eruption. Or Galaxy of flavors: Saffron risotto with seafood, edible flower petals and fine particles of interstellar spices. Desserts Gourmet Moon: Dark chocolate mousse covered with mirror icing, representing the mysterious glow of the moon. Or Sweet Comet: Mango sorbet with shards of meringue and a touch of shimmering comet powder. 8
+
+=== Page 9 ===
+Willingness to pay The text was followed by two questions. Let's start with Question 2 You were asked the maximum price you were willing to pay (called in economics willingness to pay from your answers (one curve for each group). We will construct the demand curves 9
+
+=== Page 10 ===
+Group A Question 1: Would you pay Cl for a meal at this restaurant? Question 2: What is the maximum price you would be Willing to pay for this meal? 10
+
+=== Page 11 ===
+Group B Question 1: Would you pay for a meal at this restaurant? 61,000 Question 2: What is the maximum price you would be Willing to pay for this meal? 11
+
+=== Page 12 ===
+What did just happen? 12
+
+=== Page 13 ===
+Anchor The first question acted as an anchor (low for Group A, high for Group B). It shifted responses to the second question. This effect was first documented by: Tversky, Ao, & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and 185(4157), 1124-1131. Biases. science, Economists often assume individuals have a fixed willingness to pay. Behavioral economics, following Kahneman and Tversky, shows that this is not always the case. 13
+
+=== Page 14 ===
+Daniel Kahneman (1934-2024) Nobel laureate in 2002
+
+=== Page 15 ===
+Amos Tversky (1937-1996)
+
+=== Page 16 ===
+Experiment 2
+
+=== Page 17 ===
+Poem reading The economics professor has written a collection of poems and is going to organize a half-hour reading in the auditorium. 17
+
+=== Page 18 ===
+Group A What maximum amount would you be willing to pay to attend this poem reading? 18
+
+=== Page 19 ===
+Group B What minimum amount would you ask to be paid to attend this poem reading? 19
+
+=== Page 20 ===
+What did just happen? 20
+
+=== Page 21 ===
+The construction of value "In a famous passage of Mark Twain's novel, Tom Sawyer, Tom is faced with the unenviable job of whitewashing his aunt's fence in full View of his friends who will pass by shortly and whose snickering promises to add insult to injury. When his friends do show up, Tom applies himself to the paintbrush with gusto, presenting the tedious chore as a rare opportunity. Tom's friends wind up not only paying for the privilege of taking their turn at the fence, but deriving real pleasure from the task—a win-win outcome if there ever was one. In Twain's words, Tom "had discovered a great law of human action, without knowing it—namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain." Ariely , D., Loewenstein, G., & Prelec, D. (2006). Tom Sawyer and the construction of value. Journal of Economic Behavior & Organization, 60 (1), 1-10. 21
+
+=== Page 22 ===
+Experiment 3
+
+=== Page 23 ===
+Group A What program did you choose? Program I or Program Il 23
+
+=== Page 24 ===
+Group B What program did you choose? Program I or Program Il 24
+
+=== Page 25 ===
+What did just happen? 25
+
+=== Page 26 ===
+Tversky and Kahneman, (1981) Gains (people will be saved) Imagine that the US is preparing for the outbreak of an unusual disease, which is expected to kill 600,000 people . Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows: If Program I is adopted, 200,000 people will be saved If Program Il is adopted, there is 1/3 probability that 600,000 people will be saved , and 2/3 probability that no people will be saved. Which of the two programs would you favor? Losses (people will die) Imagine that the US is preparing for the outbreak of an unusual disease, which is expected to kill 600,000 people . Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows: If Program I is adopted 400,000 people will die . If Program Il is adopted there is 1/3 probability that nobody will die, and 2/3 probability that 600,000 people will die. Which of the two programs would you favor? 26
+
+=== Page 27 ===
+Gains vs Losses willing to take risks when a decision is people are more framed in terms of losses than when it is framed in terms of gains. 27
+
+=== Page 28 ===
+Experiment 4
+
+=== Page 29 ===
+A vaccination program If you had 650 to donate today, how much would you allocate to this program? Group A? Group B?
+
+=== Page 30 ===
+What did just happen? 30
+
+=== Page 31 ===
+Two programs Group A: A reputed NGO is looking for funds to finance a vaccination program in a remote village. It will reach 900/0 of 100 at-risk children. = saving 90 children Group B: A reputed NGO is looking for funds to finance a vaccination program in a remote village. It will reach 600/0 of 1,000 at-risk children. = saving 600 children 31
+
+=== Page 32 ===
+Debriefing 1 Ooz 8 oz 502 We expected many students in Group A to donate more, even though Group B's program saves far more children overall. Hsee, C. K. (1998). Less is better: When low-value options are valued more highly than high-value options. Journal of Behavioral Decision Making 11(2), 107- 121. (picture on the left comes from this article) 32
+
+=== Page 33 ===
+Experiment 5
+
+=== Page 34 ===
+A dinnerware set What is the maximum price (in e) you would be willing to pay today for this set? Group A? Group B?
+
+=== Page 35 ===
+Two dinnerware sets Group A: A set that you find nice includes 40 pcs: Dinner plates: 8, all in good condition Soup/salad bowls: 8, all in good condition Dessert plates: 8, all in good condition • Cups: 8, 2 of them are broken • Saucers: 8, 7 of them are broken Group B: A set that you find nice includes 24 pcs: Dinner plates: 8, all in good condition Soup/salad bowls: 8, all in good condition Dessert plates: 8, all in good condition 35
+
+=== Page 36 ===
+What did just happen? 36
+
+=== Page 37 ===
+Still the evaluation bias Group A: More total usable pieces, but some broken judged less valuable Group B: Fewer total pieces, all intact judged more valuable In separate evaluation, people focus on average quality total quantity of rather than good pieces. This is another case of evaluability bias (Hsee, 1998). 37
+
+=== Page 38 ===
+Practical consequence Adding lower-quality material to a report or thesis can lower its overall evaluation, even if the total amount of work increases. Professors, managers, and colleagues may also fall prey to evaluation bias... 38
+
+=== Page 39 ===
+Experiments in economics
+
+=== Page 40 ===
+What is an experiment in economics? A "survey", a "study" in which participants e.g. students, but not only are asked to make decisions in order to test an hypothesis e.g. "HI: X implies Y" under controlled conditions create a "ceteris paribus" environment keeping everything else constant. 40
+
+=== Page 41 ===
+Treatments and randomization Treatments For instance, in our case, Groups A and B, receiving different versions of the questionnaire. Randomization In most experiments, subjects are randomly assigned to the different treatments. 41
+
+=== Page 42 ===
+What for? Mainly: To test a causal relationship Hl: X implies Y Difficult to test in real life: inverse causality? Spurious effect? In most cases, we can only observe correlations. Solution: experiments! X = different treatments Subjects are randomly assigned to the various treatments (various levels of X). Y is then measured for each treatment. Neither Y nor a third variable can influence X. 42
+
+=== Page 43 ===
+Other terms Field experiment / Randomized controlled trials (RCTs) Experiments can be conducted outside a lab. People are often not aware that they participate in the study. AIB testing Nowadays, many online companies do A/B testing on their websites, randomly displaying a version A or a version B to estimate which version is more effective. 43
+
+=== Page 44 ===
+Takeaways from behavioral experimental economics and 1. 2. 3. 4. 5. 6. Even irrelevant numbers can shift willingness to paye The same experience can feel like a good or a burden. Gains make us cautious, losses make us risk-seeking. People often focus on averages, not absolute impact. Adding a flawed item can reduce the value of a whole set. Experiments in economics can help isolate causal effects. 44
+
+=== Page 45 ===
+End of the lab makers lyon business school

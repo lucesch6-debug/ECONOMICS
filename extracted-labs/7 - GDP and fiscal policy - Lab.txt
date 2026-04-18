@@ -1,0 +1,214 @@
+﻿=== Slide 1 ===
+GDP and fiscal policy
+ECON21 – Lab 7
+
+=== Slide 2 ===
+ECON21
+Microeconomics
+Production and firms
+Consumption and behavior
+Strategic interactions
+Industrial organization
+Incentives
+Macroeconomics
+Inflation and unemployment
+GDP and fiscal policy
+Money and monetary policy
+Environment
+Growth
+
+=== Slide 3 ===
+Agenda
+3
+
+=== Slide 4 ===
+The game
+4
+
+=== Slide 5 ===
+The Village
+5
+You live in an isolated village, with no
+contact with
+the rest of the world. There are 20 households. Each household produces one different good that the village needs. All goods are equally valued in the community and households are the happiest when they can consume the same quantity of each good.
+The currency of the village is the
+V
+. The price of all goods is the same: 1 V per unit. Hence, in what follows, we can abstract from prices and money. The quantity you sell is also your income.
+
+=== Slide 6 ===
+Objective
+6
+Your goal as an entrepreneurial household is to maximize your wealth over 8 years. You will make decisions about how much to produce based on your expectations of demand. The “Council”, which is the government of the village will guarantee a minimum demand each period, but you can earn more by fulfilling household demand. The Council has accumulated a lot of wealth and can pay for its expenses without having to borrow or raise taxes.
+To be able to produce a quantity Q, you will need to consume 80% of Q, equally split among all 20 goods. This consumption will be fulfilled by the yearly production.
+If there is not enough production of a good to cover consumption, the Council will sell some of its reserves.
+If production exceeds total demand, the Council takes all output produced in excess. The producer receives no payment for these units and must additionally pay a handling fee of 1 per unit of good.
+
+=== Slide 7 ===
+Game Structure
+7
+Step 1: You choose your production
+At the beginning of each period, you decide how much your household produces.
+Try to anticipate what the demand will be.
+Step 2: Total demand is computed
+Every household will automatically consume 80% of the value of their production. Hence the total household demand will be 80% of the total production. We add the governmental demand to this to obtain the total demand. This total demand is then equally spread among all goods.
+Step 3: Diagnostic
+We will compare what you produced with the total demand for your good and we tell you whether you over- or under-produced.
+Step 4: Sales and income
+If you produced too little, your income is limited by what you produced. If you produced too much, your income is limited by what you can sell and you also pay the handling fee for your excess production.
+Step 5: Saving and wealth
+Your saving is your income minus your consumption, which is 80% of your production.
+
+=== Slide 8 ===
+Last
+words
+before
+we
+start
+8
+Overproduction:
+If you produced more than the demand addressed to you, you will consume more than 80% of your income, maybe even more than 100% of your income and you will pay handling fees for the excess production.
+Underproduction:
+If you produced less than the demand addressed to you, you missed the opportunity to have a higher income, more saving, and ultimately, more wealth.
+Reminder of your objective:
+Your goal as an entrepreneurial household is to maximize your wealth over 8 years.
+
+=== Slide 9 ===
+Debriefing
+9
+
+=== Slide 10 ===
+Debriefing
+10
+What strategy did you use?
+What happened in Year 5?
+What was the impact of going from a governmental demand for your good of 20 to 40?
+Was the long-term impact on your income greater or less than 20?
+
+=== Slide 11 ===
+Multiplier
+11
+
+=== Slide 12 ===
+With governmental demand of 20
+12
+What is the equilibrium production, i.e., the production such that
+no one has over- nor underproduction
+?
+Let
+be the production per household and
+the total production.
+The demand per household
+is
+Equilibrium production per household must satisfy
+We therefore obtain:
+Which
+means
+and
+therefore
+.
+
+=== Slide 13 ===
+Reaching equilibrium iteratively
+13
+Perhaps you had the following reasoning:
+Round 1:
+. Then
+and demand is
+.
+Round 2:
+Round 3:
+Round 4:
+…
+If you continue indefinitely, you will reach
+and
+.
+See proof in plenary lecture.
+
+=== Slide 14 ===
+With governmental demand of 40
+14
+What happens when the governmental demand increases from
+20 to 40?
+Let
+be the production per household and
+the total production.
+The demand per household
+is
+Equilibrium production per household must satisfy
+We therefore obtain:
+Which
+means
+and
+therefore
+.
+The
+government
+increased
+its
+demand
+by 20 but total
+demand
+and production
+increased
+by 100!!!
+
+=== Slide 15 ===
+How
+much
+wealth
+you
+could
+have
+created
+15
+If
+you
+had
+found
+the
+equilibrium
+production,
+you
+would
+have
+produced
+100 in
+years
+1 to 4,
+hence
+saving
+20
+every
+year
+; and
+then
+200 in
+years
+5 to 8,
+saving
+40 per
+year
+.
+After
+8
+years
+,
+your
+total
+wealth
+would
+have been 240,
+so
+4800 for the
+whole
+village.
+What
+was
+the total
+wealth
+of
+your
+village?
+
+=== Slide 16 ===
+End of the lab

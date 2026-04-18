@@ -1,0 +1,180 @@
+﻿=== Slide 1 ===
+Money and
+monetary policy
+ECON21 – Lab 8
+
+=== Slide 2 ===
+ECON21
+Microeconomics
+Production and firms
+Consumption and behavior
+Strategic interactions
+Industrial organization
+Incentives
+Macroeconomics
+Inflation and unemployment
+GDP and fiscal policy
+Money and monetary policy
+Environment
+Growth
+
+=== Slide 3 ===
+Agenda
+Reading the instructions
+Playing the game
+Debriefing
+3
+
+=== Slide 4 ===
+Reading the instructions
+4
+
+=== Slide 5 ===
+Rules of the game (1)
+5
+Type 		Consumes		Produces
+1 		Good 1 			Good 2
+2 		Good 2 		Good 3
+3		Good 3 		Good 1
+Consumption:
+Brings
+you utility (+20 points)
+And allows you to produce.
+You never produce what you want to consume.
+
+=== Slide 6 ===
+Rules of the game (2)
+6
+You will be able to exchange (by meeting someone by chance).
+You have no obligations to trade and you cannot force the other to trade either. Both must agree.
+You can
+obtain the good you consume,
+or obtain another good,
+or not trade at all.
+The exchange is 1 for 1. You cannot split the goods.
+
+=== Slide 7 ===
+Rules of the game (3)
+7
+There are
+up to 20 trading periods (we will try to reach 10).
+Note that in each period, you will always start with one unit of one of the goods and end with one unit of either the same good or another.
+
+=== Slide 8 ===
+Rules of the game (4)
+8
+Consuming increases your score. This must be your goal above all.
+In every period, your points will decrease depending on the good you store (depreciation).
+Good 		Storage cost in points
+1 			 1
+2 			4
+3 			9
+
+=== Slide 9 ===
+Rules of the game (5)
+9
+40
+Give yourself 40 points to start
+above line 1
+Write the good here
+that you
+produce
+because you
+start
+with this one
+
+=== Slide 10 ===
+Rules of the game (6)
+10
+Let's imagine that you are a Type 1 and you meet a Type 3 who has good 1 and who agrees to trade.
+You gain 20 points, and
+automatically
+produce good 2, which must be stored. Your net gain is 16 and you start the next period with a unit of good 2.
+40
+2	3	1	Yes	20	-4	56
+2
+
+=== Slide 11 ===
+Rules of the game (7)
+11
+Let's say you meet a Type 2 who has a unit of good 3 and you don't accept to trade.
+You store your good 2.
+Note
+: There will always be a negative amount in the “Storage” column
+40
+2	3	1	Yes	20	-4	56
+2
+2	3	No	0	-4	52
+
+=== Slide 12 ===
+Playing the game
+12
+
+=== Slide 13 ===
+Matching
+13
+We will use an Excel function that will make random pairs each period.
+However, if the number of students is odd, one person will be left alone and wait for the next period while incurring storage costs.
+
+=== Slide 14 ===
+Debriefing
+14
+
+=== Slide 15 ===
+Debriefing
+15
+What strategy did you use?
+Did you always agree to exchange?
+Did some goods circulate more frequently than others?
+If so,
+Which good was it?
+Why were people willing to accept it?
+How was the pattern of trade affected by the emergence of a favored good?
+
+=== Slide 16 ===
+What the theory predicts
+16
+Good 1 has the lowest storage cost and therefore depreciates the least.
+As a result, it is the most attractive good to hold and to use as a medium of exchange.
+Type 1
+directly wants Good 1 for consumption. If immediate consumption is not possible, holding Good 2 is preferable to ending up with Good 3, which depreciates heavily.
+Type 2
+wants Good 2 for consumption but prefers to hold Good 1 rather than Good 3 when consumption is not immediate.
+Type 3
+wants Good 3 for consumption but prefers to store Good 1 rather than Good 2 while waiting to trade.
+Because
+all types rank Good 1 highest among the goods they do not immediately consume
+, the theory predicts that
+Good 1 will be accepted more often in trade and will circulate more widely than the others
+.
+If this pattern emerged in the experiment, then a currency has emerged endogenously!
+
+=== Slide 17 ===
+Emergence of money
+17
+In a barter economy, exchanges are inefficient
+because they require a
+double coincidence of wants
+: it is difficult to find someone who both needs what I have and possesses what I want. When agents accept goods they do not intend to consume immediately, these goods may depreciate before a suitable trading partner is found.
+The emergence of a good that serves as a medium of exchange
+, and that is easy to store,
+reduces transaction costs
+,
+relaxes the double coincidence constraint,
+and allows a higher volume of mutually beneficial exchanges to take place.
+
+=== Slide 18 ===
+Debriefing
+18
+What if the storage cost of the favored good increased?
+What if the storage cost of the favored good were uncertain or volatile?
+What if the favored good had no consumption value?
+
+=== Slide 19 ===
+Debriefing
+19
+Beyond low storage costs, what characteristics make a good likely to become generally accepted as a medium of exchange?
+Which goods have historically emerged as money?
+
+=== Slide 20 ===
+End of the lab

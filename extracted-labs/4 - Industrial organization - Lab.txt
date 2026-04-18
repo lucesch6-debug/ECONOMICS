@@ -1,0 +1,77 @@
+﻿=== Page 1 ===
+Industrial organization ECON21- Lab 4 lyon business school we are makers 1
+
+=== Page 2 ===
+ECON21 Microeconomics 1. 2. 3. 4. 5. Production and firms Consumption and behavior Strategic interactions Industrial organization Incentives Macroeconomics 6. 7. 8. 9. 10. Inflation and unemployment GDP and fiscal policy Money and monetary policy Environment Growth 000 O t} 8
+
+=== Page 3 ===
+Agenda Three games Debriefing after each game 3
+
+=== Page 4 ===
+Game 1
+
+=== Page 5 ===
+Rules of the game 1. 2. 3. 4. 5. Form groups of 2 or 3 students, so that there is an even number of groups. Each group represents a firm Pair the firms. Each pair represents a With only two firms, this is a duopoly: market. the two firms will share demand. more products are on the market, the lower the price will be. The price is given The by:p = 10 - o.8Q. where Q is the total quantity produced. For simplicity, production costs are assumed to be zero. Profits equal revenues. Each firm writes on a Piece of paper the quantity it wishes to produce (between O and 6). No communication is allowed between firms. Then both firms reveal their production simultaneously and compute their respective profits. Objective: maximize your profit. Anticipate what the other firm will do—remember they studied game theory too. 5
+
+=== Page 6 ===
+The selling price The production of the other firm from O to 6 I Your production from O to 6 10.0 9.2 8.4 7.6 6.8 6.0 5.2 9.2 8.4 7.6 6.8 6.0 5.2 4.4 8.4 7.6 6.8 6.0 5.2 4.4 3.6 7.6 6.8 6.0 5.2 4.4 3.6 2.8 6.8 6.0 5.2 4.4 3.6 2.8 2.0 6.0 5.2 4.4 3.6 2.8 2.0 1.2 5.2 4.4 3.6 2.8 2.0 1.2 For example, if you produce 3 and the other firm produces 1, the price is 10 - 6.8 6
+
+=== Page 7 ===
+(0, 16.8) Your production from O to 6 (Your profit, the other firm's profit) The production of the other firm from O to 6 (15.2, 7.6) (13.6, 13.6) (18, 12) (22, 8 8) o a 9 s (9.2, 0) (16.8, 0) (22.8, 0) (27.2, 0) (30, 0) (31.2, 0) (0, 9.2) (8.4, 8.4) (20.4, 6.8) (24, 6) (26, 5.2) (26.4, 4.4) (0, 22.8) (6.8, 20.4) (0, 27.2) (6, 24) (7.6, (20.8, 152) (12, 18) (10.4, 20.8) (15.6, 15.6) (13.2, 17.6) 14.4) (18, 10.8) (21.6, 7.2) (16.8, 8.4) (14, 11.2) (12, 8) (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (7.2, 6) (0, 31.2) (4.4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (2.4, 2.4) If you produce 3 and the other firm produces 1, the price is 6.8. Profit is quantity times price, so 20.4 for you and 6.8 for the other 7
+
+=== Page 8 ===
+What did just happen? What quantity did you choose? Do you know what the Nash equilibrium was? Did you play it? Why (or Why not)? 8
+
+=== Page 9 ===
+(0, 16.8) Your production from O to 6 Your best response function The production of the other firm from O to 6 (22, 8 8) o a 9 s (9.2, 0) (16.8, 0) (22.8, 0) (27.2, 0) (30, 0) (312, 0) (0, 9.2) (8.4, 8.4) (20.4, 6.8) (24, 6) (26, 5.2) (26.4, 4.4) (0, 22.8) (6.8, 20.4) (0, 27.2) (6, 24) (7.6, (20.8, 152) (15.2, 7.6) (13.6, 13.6) (12, 18) (10.4, 20.8) (18, 12) (15.6, 15.6) (13.2, 17.6) (17.6, 13.2) 14.4) (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (18, 10.8) (21.6, 7.2) (16.8, 8.4) (14, 11.2) (12, 8) (7.2, 6) (0, 31.2) (4.4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (2.4, 2.4) 9
+
+=== Page 10 ===
+(0, 16.8) Your production from O to 6 The best response of the other firm The production of the other firm from O to 6 (22, 8 8) o a 9 s (9.2, 0) (16.8, 0) (22.8, 0) (27.2, 0) (30, 0) (312, 0) (0, 9.2) (8.4, 8.4) (20.4, 6.8) (24, 6) (26, 5.2) (26.4, 4.4) (0, 22.8) (6.8, 20.4) (0, 27.2) (6, 24) (7.6, (20.8, 152) (15.2, 7.6) (13.6, 13.6) (12, 18) (10.4, 20.8) (18, 12) (15.6, 15.6) (13.2, 17.6) (17.6, 13.2) 14.4) (18, 10.8) (21.6, 7.2) (16.8, 8.4) (14, 11.2) (12, 8) (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (7.2, 6) (0, 31.2) (4.4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (2.4, 2.4) 10
+
+=== Page 11 ===
+Nash equilibrium Nash equilibrium is the situation in which each firm's strategy is the best The response to the other's. In the table, the corresponding box must be yellow (your best response) and green (the other firm's best response). This occurs at the square where both firms produce 4. 11
+
+=== Page 12 ===
+If you both decided to produce 4 Congratulations — you have rediscovered the Cournot duopoly equilibrium, first introduced by the French mathematician Antoine Augustin Cournot. 12
+
+=== Page 13 ===
+Game 2 11
+
+=== Page 14 ===
+Rules of the game the same game, but this time, sequentially We repeat almost 14
+
+=== Page 15 ===
+Rules of the game 1. 2. 3. 4. Within each market, decide (by playing rock—paper—scissors) which group will be Firm A and which will be Firm B. This time, the decision is sequential rather than simultaneous. Firm A first announces how much it will produce, and then Firm B announces its production. Tip: anticipate what the other firm will do. Remember that the other side also studied game theory, including sequential games. While Firm A decides, Firm B should already think about how it would respond in each possible scenario. (Firm B can also try to predict Firm A's move.) 15
+
+=== Page 16 ===
+(0, 16.8) Firm A (A's profit, B's profit) Firm B (22, 8 8) (0, 27.2) (6, 24) 2 a o (9.2, 0) (16.8, 0) (22.8, 0) (27.2, 0) (30, 0) (31.2, 0) (0, 9.2) (8.4, 8.4) (20.4, 6.8) (24, 6) (26, 5.2) (26.4, 4.4) (0, 22.8) (6.8, 20.4) (7.6, (20.8, 15.2) (15.2, 7.6) (13.6, 13.6) (12, 18) (10.4, 20.8) (18, 12) (15.6, 15.6) (13.2, 17.6) 14.4) (18, 10.8) (21.6, 7.2) (16.8, 8.4) (14, 11.2) (12, 8) s (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (7.2, 6) 6 (0, 31.2) (4.4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (2.4, 2.4) 16
+
+=== Page 17 ===
+What did just happen? What quantity did you choose? Do you know what the Nash equilibrium was? Did you play it? Why (or Why not)? 17
+
+=== Page 18 ===
+3 (0, 22.8) (6.8, 20.4) Firm A Firm B's perspective Firm B (7.6, 15.2) (13.6, 13.6) (18, 12) (22, 8 8) (0, 27.2) (6, 24) 3 (9.2, 0) (16.8, 0) (22.8, 0) (272, 0) (30, 0) (312, 0) (0, 9.2) (15.2, 7.6) (20.4, 6.8) (24, 6) (26, 5.2) 2 (0, 16.8) (20.8, (21.6, 7.2) (12, 18) (10.4, 20.8) (15.6, 15.6) (13.2, 17.6) 13.2) 14.4) (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (7.2, 6) (0, 312) (4,4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (18, 10.8) (16.8, 8.4) (14, 112) (12, 8) 18
+
+=== Page 19 ===
+Firm A's perspective Firm B Firm A 2 s (8.8, 22) (10.8, 18) (14.4, 14.4) (14, 11.2) (16.8, 8 4) 6 (0, 31.2) (4.4, 26.4) 19
+
+=== Page 20 ===
+If firm A chose 6 and firm B chose 3 Congratulations — you have discovered the equilibrium in a Stackelberg duopoly, first analyzed by the German economist Heinrich von Stackelberg. Comparison of profits: Cournot: each firm earns 14.4. Stackelberg: Firm A earns 16.8, while Firm B only earns 10.8. This shows the first-mover advantage in a strategic interaction: the second firm must adapt to the conditions imposed by the first. 20
+
+=== Page 21 ===
+Game 3 11
+
+=== Page 22 ===
+Rules of the game We now repeat almost the same game as in Round 1, with simultaneous decisions, but this time the two firms are allowed to communicate beforehand. 1. 2. 3. The two firms may talk to coordinate their strategies. Communication then stops. Each firm secretly writes on a Piece of paper the quantity it intends to produce (between O and 6). Both firms reveal their choices simultaneously and calculate their respective profits. Objective: maximize your profit. 22
+
+=== Page 23 ===
+(0, 16.8) Your production from O to 6 (Your profit, the other firm's profit) The production of the other firm from O to 6 (15.2, 7.6) (13.6, 13.6) (18, 12) (22, 8 8) o a 9 s (9.2, 0) (16.8, 0) (22.8, 0) (27.2, 0) (30, 0) (31.2, 0) (0, 9.2) (8.4, 8.4) (20.4, 6.8) (24, 6) (26, 5.2) (26.4, 4.4) (0, 22.8) (6.8, 20.4) (0, 27.2) (6, 24) (7.6, (20.8, 152) (12, 18) (10.4, 20.8) (15.6, 15.6) (13.2, 17.6) 14.4) (18, 10.8) (21.6, 7.2) (16.8, 8.4) (14, 11.2) (12, 8) (0, 30) (5.2, 26) (8.8, 22) (10.8, 18) (11.2, 14) (10, 10) (7.2, 6) (0, 31.2) (4.4, 26.4) (7.2, 21.6) (8.4, 16.8) (8, 12) (2.4, 2.4) 23
+
+=== Page 24 ===
+What did just happen? What did you produce? Did you play the Nash equilibrium of the Cournot duopoly (production of 4 each)? Or did you agree to limit output to 3 each, in order to maximize your profits? And if so, did you keep your promise? : if it is not possible to punish a player who breaks a promise (financially or by Note reputation), then the promise is not credible. For example, if both firms agree to produce 3, one firm can gain more by secretly producing 5. 24
+
+=== Page 25 ===
+If you colluded on producing 3 each No congratulations this time, because you have colluded (created a cartel) and it is illegall The competition authority can impose a substantial fine on you. 25
+
+=== Page 26 ===
+End of the lab makers lyon business school

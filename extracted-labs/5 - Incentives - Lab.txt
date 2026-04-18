@@ -1,0 +1,101 @@
+﻿=== Page 1 ===
+Incentives ECON21- Lab 5 lyon business school we are makers
+
+=== Page 2 ===
+ECON21 Microeconomics 1. 2. 3. 4. 5. Production and firms Consumption and behavior Strategic interactions Industrial organization Incentives Macroeconomics 6. 7. 8. 9. 10. Inflation and unemployment GDP and fiscal policy Money and monetary policy Environment Growth 000 O 8
+
+=== Page 3 ===
+Agenda General rules of the three games Game 1 Game 2 Game 3 Debriefing and key lessons 3
+
+=== Page 4 ===
+General rules of the 3 games Each player starts with 15 points. In every game, there is a 300/0 chance of having an accident that makes you lose points. On average, an accident costs you 10 points. Your goal: keep as many points as possible by deciding whether to buy insurance (or not). Reminder: Insurance is not free —it also costs points. 4
+
+=== Page 5 ===
+The risk We use an envelope with 10 tickets: 3 "accident" tickets 7 "no accident" tickets The probability of an accident is therefore 300/0. Each player will draw a ticket, then put it back in the envelope before the next draw. 5
+
+=== Page 6 ===
+The loss (1) Each of you has received a player ticket indicating your type: Red Black There are equal numbers of Red and Black players. Your ticket also shows a player number, which will identify you during the game. The average loss is 10 points, but it differs between Reds and Blacks: Some players face a higher loss. Others face a lower loss. 6
+
+=== Page 7 ===
+The loss (2) At the start of each game, a coin toss determines which group faces the higher loss: Heads: • Red risk of losing 15 points • Black —È risk of losing 5 points Tails: • Red risk of losing 5 points • Black —È risk of losing 15 points On average, the expected loss remains 10 points, as announced earlier. e 7
+
+=== Page 8 ===
+Insurance We assume a mutual insurance company. Its goal is not to make a profit, but to pool risks among policyholders. The insurance company has no information about whether you are Red or Black. 8
+
+=== Page 9 ===
+The three games Game 1 — One insurance contract: decide whether to subscribe or not. Vote on a compulsory insurance system. Game 2- Choice between two contracts (or no insurance at all). • Game 3— 9
+
+=== Page 10 ===
+Game
+
+=== Page 11 ===
+The insurance contract The insurance company, considering a risk of 300/0 of 10 points on average, offers you the following contract: • Insurance costs 3 points whether you have an accident or not. If you have an accident, the company completely covers your loss. fair price" because the premium (3 points) is equal to the expected This is called a " value of the risk (300/0 x IO = 3). With this contract, you will always finish the first game with 12 points, whatever happens. 11
+
+=== Page 12 ===
+Summary Group with potential loss of 15 points Without insurance: Accident (30%): 0 points left No accident (70%): 15 points With insurance (cost 3 points, full coverage): Always: 12 points Group with potential loss of 5 points Without insurance: Accident (30%): 10 points left No accident (700/0): 15 points With insurance (cost 3 points, full coverage): Always: 12 points 12
+
+=== Page 13 ===
+Step 1: Heads or Tails Heads: Red risk of losing 15 points Black —È risk of losing 5 points Tails: Red risk of losing 5 points Black —È risk of losing 15 points 13
+
+=== Page 14 ===
+Step 2: Choice of insurance Each player now decides whether to buy insurance. Reminder: Group with potential loss of 15 points Without insurance: Accident (30%): 0 points left No accident (70%): 15 points With insurance (cost 3 points, full coverage): Always: 12 points Group with potential loss of 5 points Without insurance: Accident (30%): 10 points left No accident (700/0): 15 points With insurance (cost 3 points, full coverage): Always: 12 points 14
+
+=== Page 15 ===
+Step 3: Risk of accident Each player draws a ticket from the envelope. Losses are computed. 15
+
+=== Page 16 ===
+Results and debriefing Did the insurance company make a loss? Why, in your opinion? What happened? 16
+
+=== Page 17 ===
+Remarks The insurance company will go bankrupt if it keeps this price and only people with high losses get insurance. If it only has clients with high losses, the premium should be 4.5 points instead of 3 because this is the fair price for a 300/0 risk of losing 15 points. Let us consider such an insurance contract: For the group with potential loss of 15 points Without insurance contract: Accident (30% chance): 0 points left. No accident (700/0 chance): 15 points. With the insurance contract (pay 4.5 points in any case, your loss is covered) (100% chance) 10.5 points. For the group with potential loss of 5 points Without insurance contract: Accident (30% chance): 10 points left. No accident (70% chance): 15 points. With the insurance contract (pay 4.5 points in any case, your loss is covered) (100% chance) 10.5 points. This insurance is really not interesting for those with a low potential loss. 17
+
+=== Page 18 ===
+Game 2
+
+=== Page 19 ===
+We start again We will flip a coin again to determine whether or Black faces the high loss. Red For now, everyone is back to the same expected situation: an average loss of 10 points. But this time, before tossing the coin, we will vote. 19
+
+=== Page 20 ===
+Referendum Since only high-loss players take insurance, the company raises the premium to 4.5 points. The Government proposes an alternative: compulsory insurance at 3 points for With compulsory insurance, everyone pays 3 points and ends with 12 points, whatever their risk. This avoids losses for the insurer on average. e Vote: Yes —Y compulsory 3-point insurance No optional insurance at 4.5 points 20
+
+=== Page 21 ===
+Step 1: Heads or Tails Heads: Red risk of losing 15 points Black —È risk of losing 5 points Tails: Red risk of losing 5 points Black —È risk of losing 15 points 21
+
+=== Page 22 ===
+Referendum Now that you know your risks, let's vote again: e Vote: Yes —Y compulsory 3-point insurance No optional insurance at 4.5 points 22
+
+=== Page 23 ===
+Veil of ignorance Philosophers and economists call the first situation voting ' behind the veil of ignorance" — i.e., before knowing whether we will be lucky or not. This perspective allows us to think about what is fair and just, regardless of our own personal interests. 23
+
+=== Page 24 ===
+Game 3
+
+=== Page 25 ===
+A menu of contracts The insurance company now offers two contracts: "All risk" contract Covers all losses. Premium = 4.5 points. "Mini" contract Reimburses up to 5 points. Premium = 1.5 points. Players can now choose: All risk, Mini, or No insurance. e 25
+
+=== Page 26 ===
+Group with potential loss of 15 points Without insurance contract Accident (300/0 chance): you will have O points left. No accident (700/0 chance): 15 points. With the "All Risk" contract pay 4.5 points in all cases, your loss isfully covered (1000/0 chance) 10.5 points. With the "Mini" contract pay 1.5 points in all cases, your loss is covered up to 5 points Accident (300/0 chance): you will have 3.5 points left (you are refunded 5 points but paid 1.5 points) • No accident (700/0 chance): 13.5 points. 26
+
+=== Page 27 ===
+Group with potential loss of 5 points Without insurance contract Accident (300/0 chance): you will have 10 points left. No accident (700/0 chance): 15 points. With the "All Risk" contract pay 4.5 points in all cases, your loss isfully covered (1000/0 chance) 10.5 points. With the "Mini" contract pay 1.5 points in all cases, your loss is covered up to 5 points (1000/0 chance) 13.5 points. 27
+
+=== Page 28 ===
+Step 1: Heads or Tails Heads: Red risk of losing 15 points Black —È risk of losing 5 points Tails: Red risk of losing 5 points Black —È risk of losing 15 points 28
+
+=== Page 29 ===
+Step 2: Choice of insurance Each player decides whether to take out "All Risks" insurance, "Mini" insurance, or no insurance. 29
+
+=== Page 30 ===
+What would the insurance profit be? How does that compare to Game 1? 30
+
+=== Page 31 ===
+Remarks The "All Risk" contract is attractive only for players facing high losses. The "Mini" contract is attractive only for players facing low losses. With two different contracts, each group naturally chooses the one suited to its risk. This is called a self-selection mechanism: The contract menu makes players reveal their type through their choices. It prevents the problem observed with a single contract, where only high-risk players were insured. 31
+
+=== Page 32 ===
+Takeaways
+
+=== Page 33 ===
+Takeaways Key Lessons from the Insurance Games Game 1: With one contract at the average price, only high-risk players buy -5 adverse selection insurer makes a loss. Game 2: Compulsory insurance spreads risk fairly, but requires collective agreement illustrates the veil of ignorance. Game 3: A menu of contracts lets players reveal their type self- selection mechanism solves adverse selection. Insurance design must deal with hidden information: adverse selection and incentives matter as much as risk itself. 33
+
+=== Page 34 ===
+End of the lab makers lyon business school

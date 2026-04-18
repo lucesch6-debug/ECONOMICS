@@ -1,0 +1,68 @@
+﻿=== Page 1 ===
+Strategic interactions makers ECON21- Lab 3 em lyon business school
+
+=== Page 2 ===
+ECON21 Microeconomics 1. 2. 3. 4. 5. Production and firms Consumption and behavior Strategic interactions Industrial organization Incentives Macroeconomics 6. 7. 8. 9. 10. Inflation and unemployment GDP and fiscal policy Money and monetary policy Environment Growth 000 o 8
+
+=== Page 3 ===
+Agenda The lab consists of 3 different games. Each game is played 3 times in a row. After the 3 repetitions, we stop for a short debriefing before moving to the next game. 3
+
+=== Page 4 ===
+Game 1
+
+=== Page 5 ===
+Game 101 Rules of the Game Each participant receives an ID number. You must write on a Piece of paper: Your participant ID. A number between O and 100. The winner(s) will be the one(s) whose number is closest to two-thirds of the average of all submitted numbers. ln practice: 1. Write your participant ID and your chosen number (0-100) clearly, and keep it hidden. 2. Supervisors collect all papers. 3. We compute the average A of all chosen numbers. 4. We calculate the target: -A. 5. The participant(s) whose number is closest to -A wins. Your goal: win as much as possible (imagine the winners share a prize). 5
+
+=== Page 6 ===
+Game 102 Rules of the Game We play the same game a second time. Write your participant ID and your new chosen number on a fresh Piece of paper. 6
+
+=== Page 7 ===
+Game 103 Rules of the Game We play the same game a third time. Write your participant ID and your new chosen number on a fresh Piece of paper. 7
+
+=== Page 8 ===
+What did just happen? In the first game? In the second game? In the third game? What would happen if we played more rounds? 8
+
+=== Page 9 ===
+Remark 1 We converge towards an equilibrium, where everyone answers O. This is the Nash equilibrium of the game (explained in plenary lecture). Why O is the Nash equilibrium9 If everyone chooses O, the target is O, and O is the closest possible guess no player can improve by changing their answer. Any positive number can be undercut by choosing a slightly smaller one, so eventually all reasoning leads to O. 9
+
+=== Page 10 ===
+Remark 2 In the first game: Some chose 33: they take the midpoint between O and 100 (50), then compute - x 50 33.33. This is called reasoning. Others chose 22: they anticipate that others will pick 33, so they answer - x 33 reasoning. They have a level 2 Some may reason even further (Level-3, Level-4 ) This is called level-k theory, and it is part of behavioral game theory, Study of how people actually play games, incorporating bounded rationality, limited 22. reasoning steps, social preferences, and learning, rather than assuming perfectly rational Nash equilibrium Play. 10
+
+=== Page 11 ===
+Game 2
+
+=== Page 12 ===
+Game 201 Rules of the Game Each participant receives an ID number. You must write on a Piece of paper: Your participant ID. A number between O and 1000. The winner(s) will be the one(s) whose number is closest to two-thirds of the average of all submitted numbers. ln practice: 1. Write your participant ID and your chosen number (0-100) clearly, and keep it hidden. 2. Supervisors collect all papers. 3. We compute the average A of all chosen numbers. 4. We calculate the target: -A. 5. The participant(s) whose number is closest to -A wins. Your goal: win as much as possible. Now imagine the winners share eëA (so up to 6667). 12
+
+=== Page 13 ===
+Game 202 Rules of the Game We play the same game a second time. Write your participant ID and your new chosen number on a fresh Piece of paper. 13
+
+=== Page 14 ===
+Game 203 Rules of the Game We play the same game a third time. Write your participant ID and your new chosen number on a fresh Piece of paper. 14
+
+=== Page 15 ===
+What did just happen? In the first game? In the second game? In the third game? What would happen if we played more rounds? 15
+
+=== Page 16 ===
+Remark 3 In Game 2: The payoff rule changed: winners shared -A. This gave everyone an incentive to raise their numbers, since a higher average means a larger prize to share. But: The Nash equilibrium remains the same everyone choosing O. We still observe the trend towards lower and lower answers across rounds. The tension: Collectively, it would be better if everyone played high the prize grows. Individually, each Player has a temptation to deviate downward, to be the closest and capture the prize. 16
+
+=== Page 17 ===
+Game 3
+
+=== Page 18 ===
+Game 301 Rules of the Game Each participant receives an ID number. You must write on a Piece of paper: Your participant ID. A number between O and 1000. The winner(s) will be the one(s) whose number is closest to two-thirds of the average of all submitted numbers. ln practice: 1. Before writing, participants may communicate and discuss strategy with others. 2. Write your participant ID and your chosen number (0-100) clearly, and keep it hidden. 3. Supervisors collect all papers. 4. We compute the average A of all chosen numbers. 5. We calculate the target: -A. 6. The participant(s) whose number is closest to -A wins. Your goal: win as much as possible. The winners share eëA (so up to 6667). 18
+
+=== Page 19 ===
+Game 302 Rules of the Game We play the same game a second time. Write your participant ID and your new chosen number on a fresh Piece of paper. 19
+
+=== Page 20 ===
+Game 303 Rules of the Game We play the same game a third time. Write your participant ID and your new chosen number on a fresh Piece of paper. 20
+
+=== Page 21 ===
+What did just happen? Did communication help coordination? Did it change the incentives? Did it change the equilibrium of the game? 21
+
+=== Page 22 ===
+Remark 4 If everyone agreed to play 1000, they would all share about 6667. But a single player could break their promise and deviate to 999 and win almost 6667 alone. If everyone expects 999, the best reply is 998... If everyone expects 998, the best reply is 997... and so on. By iterating this reasoning, the game still converges to the equilibrium: O. Onlya ( ) punishment mechanism can make promises trustworthy. credible 22
+
+=== Page 23 ===
+End of the lab makers lyon business school

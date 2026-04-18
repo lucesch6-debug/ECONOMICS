@@ -1,5 +1,4 @@
-const quizSections = [
-  {
+const wordQuizSection = window.wordQuizSection ?? {
     id: "section-1",
     title: "Economics Quiz - Section 1",
     eyebrow: "Revision sprint",
@@ -207,8 +206,9 @@ const quizSections = [
         ]
       }
     ]
-  },
-  {
+  };
+
+const labQuizSection = window.labQuizSection ?? {
     id: "lab",
     title: "Economics Quiz - Lab Section",
     eyebrow: "Labs",
@@ -599,27 +599,28 @@ const quizSections = [
         shortLabel: "10B",
         group: "Lab 10 - Growth",
         meta: "Module 10",
-        prompt: "In the post-growth perspective highlighted by the lab's paper list, the central goal is to:",
+        prompt: "In the growth lab's paper list, which perspective is explicitly associated with 'wellbeing within planetary boundaries'?",
         options: [
           {
-            text: "maximize GDP regardless of environmental limits.",
-            correct: false
-          },
-          {
-            text: "improve human wellbeing within planetary boundaries.",
+            text: "Post-growth.",
             correct: true
           },
           {
-            text: "eliminate all technological innovation.",
+            text: "Green growth.",
+            correct: false
+          },
+          {
+            text: "Stagflation.",
             correct: false
           }
         ]
       }
     ]
-  }
-];
+  };
 
-const STORAGE_KEY = "economics-quiz-progress-v2";
+const quizSections = [wordQuizSection, labQuizSection];
+
+const STORAGE_KEY = "economics-quiz-progress-v3";
 
 const state = createInitialState();
 

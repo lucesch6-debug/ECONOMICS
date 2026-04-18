@@ -1,0 +1,263 @@
+﻿=== Slide 1 ===
+Inflation and
+unemployment
+ECON21 – Lab 6
+
+=== Slide 2 ===
+ECON21
+Microeconomics
+Production and firms
+Consumption and behavior
+Strategic interactions
+Industrial organization
+Incentives
+Macroeconomics
+Inflation and unemployment
+GDP and fiscal policy
+Money and monetary policy
+Environment
+Growth
+
+=== Slide 3 ===
+Agenda
+Game 1
+Game 2
+Game 3
+Game 4
+Job search model
+3
+
+=== Slide 4 ===
+Game 1
+4
+
+=== Slide 5 ===
+Rules of the game – Job search
+5
+Let's imagine that you need to find a job immediately (without an emlyon diploma) for a period of three months.
+You will receive 15 consecutive job offers for which you are qualified. The jobs are identical
+in all dimensions
+except
+the number of hours and the wage offered
+.
+The
+wage
+is drawn at random according to
+an unknown probability distribution
+. The number indicated corresponds to the
+net monthly
+wage
+after tax.
+With each offer, you must decide whether to accept or reject it before seeing the next one.
+At the beginning, everyone will be standing (if physically possible).
+If you accept an offer, you sit down and write down your
+wage
+.
+If you refuse it, you stand and wait for the next offer.
+If you refuse all 15 offers,
+your gain will be 0
+for the entire three months considered.
+
+=== Slide 6 ===
+Debriefing
+6
+What strategy did you use to decide when to accept a job offer?
+What role did the fact that the wage distribution was
+unknown
+play in your decision-making?
+How did observing early wage offers influence your expectations about future offers?
+What was the impact of:
+the first wage revealed?
+upward changes in wages?
+downward changes in wages?
+Do you think you would have behaved the same way if the wage distribution had been
+known in advance
+? Why or why not?
+
+=== Slide 7 ===
+Game 2
+7
+
+=== Slide 8 ===
+Rules of the game – Job search
+8
+Let's imagine that you need to find a job immediately (without an emlyon diploma) for a period of three months.
+You will receive 15 consecutive job offers for which you are qualified. The jobs are identical
+in all dimensions
+except
+the number of hours and the wage offered
+.
+The
+wage
+is drawn at random according to
+an unknown probability distribution
+. The number indicated corresponds to the
+net monthly
+wage
+after tax.
+With each offer, you must decide whether to accept or reject it before seeing the next one.
+At the beginning, everyone will be standing (if physically possible).
+If you accept an offer, you sit down and write down your
+wage
+.
+If you refuse it, you stand and wait for the next offer.
+If you refuse all 15 offers,
+you will be officially unemployed and will receive unemployment benefit of €600 per month
+for the three months considered
+.
+
+=== Slide 9 ===
+Debriefing
+9
+What strategy did you use to decide when to accept a job offer?
+How did the unemployment benefit influence your decision-making?
+Overall, do you think the unemployment benefit had a:
+positive or negative effect for you individually?
+positive or negative effect at the collective level?
+Were some job offers not accepted? Why?
+
+=== Slide 10 ===
+Game 3
+10
+
+=== Slide 11 ===
+We complicate the game
+11
+This time, we split the group into two:
+Half
+minus 1
+(if the total number is odd) or
+minus 2
+(if even) of you will play the role of employers.
+The other half
+plus 1
+(if odd) or
+plus 2
+(if even) will play the role of job seekers.
+Each employer can employ a
+maximum of one person
+.
+Note
+: There will be
+fewer
+jobs than job seekers.
+
+=== Slide 12 ===
+Employers
+12
+Their gain is equal to revenues minus the wage paid,
+only if the job is filled
+.
+Otherwise,
+the gain is €0.
+The revenues and the number of weekly working hours required to generate these revenues are drawn randomly and are known
+only to the employers
+.
+The revenues and the number of weekly working hours required to generate these revenues are drawn randomly and are known
+only to the employers
+.
+Please note:
+employers are
+obliged
+to offer
+exactly
+the number of hours indicated on their card in order to obtain the revenue.
+If the
+wage
+offer
+is not accepted by anyone, it is
+not possible
+to make a second offer.
+
+=== Slide 13 ===
+Job seekers
+13
+The first job seeker to raise their hand
+accepts the job
+.
+In the event of a tie, the employer can choose
+among the tied candidates
+.
+Those who do not obtain a job will be unemployed and will receive
+€600 per month
+.
+
+=== Slide 14 ===
+Game 4
+14
+
+=== Slide 15 ===
+Role reversal
+15
+We play the same
+game again
+but
+the roles of employers and job seekers are reversed
+.
+Note
+: There will be
+more
+jobs than job seekers.
+
+=== Slide 16 ===
+Debriefing of Games 3 and 4
+16
+What were the gains for employers?
+What strategy did you use?
+What factors influenced you?
+What was the impact of unemployment benefit?
+Were all employers able to find employees?
+
+=== Slide 17 ===
+Job search model
+17
+
+=== Slide 18 ===
+Job
+search
+model
+18
+Economists have modeled the job search process.
+(See the article assigned for this module.)
+The model predicts that job seekers use a “
+reservation wage
+” to decide whether to accept an offer.
+They accept any offer
+greater than or equal to
+this reservation
+wage
+.
+
+=== Slide 19 ===
+Job
+search
+model
+19
+The reservation wage changes during the process:
+At the beginning, waiting allows job seekers to learn about the market (learning effect), which can lead to a higher reservation wage.
+Later in the process, the learning effect diminishes and the risk of unemployment becomes more salient. A long period of job search may also be stigmatizing. As a result, the reservation wage falls.
+The reservation wage is influenced by labor market conditions:
+High unemployment lowers the reservation wage.
+The presence of unemployment benefits increases it.
+
+=== Slide 20 ===
+For employers
+20
+A high reservation wage among job seekers can make it difficult for employers to fill vacancies at the wages they can afford to pay.
+
+=== Slide 21 ===
+Debate: Universal income?
+21
+What impact do you expect a universal income to have on unemployment?
+
+=== Slide 22 ===
+Debate: Universal income?
+22
+A high reservation wage among job seekers can make it difficult for employers to fill vacancies at the wages they are able to pay.
+A universal income can protect unemployed individuals against poverty
+without necessarily increasing the reservation wage too much
+, since people continue to receive the universal income even when they accept a job.
+However, financing a universal income may be challenging unless it is accompanied by substantial reforms of the tax and benefit systems.
+
+=== Slide 23 ===
+End of the lab

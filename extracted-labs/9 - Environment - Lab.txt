@@ -1,0 +1,1415 @@
+﻿=== Slide 1 ===
+Environment
+ECON21 – Lab 9
+
+=== Slide 2 ===
+ECON21
+Microeconomics
+Production and firms
+Consumption and behavior
+Strategic interactions
+Industrial organization
+Incentives
+Macroeconomics
+Inflation and unemployment
+GDP and fiscal policy
+Money and monetary policy
+Environment
+Growth
+
+=== Slide 3 ===
+Agenda
+Welcome to
+Greenerland
+!
+Round 1: The Early Days
+Round 2: The Wake-Up Call
+Round 3: Innovation for Sustainability
+Round 4: The Green Market
+Round 5: The Market Matures
+Round 6: Striving for Lower Emissions
+Round 7: Achieving Sustainability?
+Time to debate
+3
+
+=== Slide 4 ===
+Welcome to
+Greenerland
+!
+4
+
+=== Slide 5 ===
+Welcome to
+Greenerland
+!
+5
+You and your business partner are the proud owners of a manufacturing firm in
+Greenerland
+. As the world awakens to the realities of climate change,
+Greenerland
+is starting its journey toward sustainability.
+In this simulation, you’ll face the challenges and opportunities of running a business in a changing regulatory landscape. Can you maximize your profits while
+Greenerland
+minimizes its environmental impact? Let’s find out!
+
+=== Slide 6 ===
+Game Setup
+6
+You are a firm.
+Each pair of students represents a firm in
+Greenerland
+.
+Your product.
+Your firm is a price taker and produces goods sold at a market price of €4 per unit.
+Your emissions.
+Each unit you produce emits 20 kg of CO₂.
+Your costs.
+Your cost function is
+, where
+is the quantity you produce. This means your marginal cost is
+.
+
+=== Slide 7 ===
+The Rules of the Game
+7
+The simulation consists of 7 rounds. In each round, the rules evolve as
+Greenerland
+takes steps to address climate change.
+Your objective:
+Your goal
+as a firm
+is to maximize profit as it is your only source of income.
+
+=== Slide 8 ===
+Round 1: The Early Days
+8
+
+=== Slide 9 ===
+Round 1: The Early Days
+9
+Story:
+Greenerland
+is in its industrial infancy, with little awareness of environmental concerns. Your only goal is to maximize profits.
+Your task:
+Decide how much to produce to maximize your profit.
+Outcome:
+Report your production, profit, and emissions to the group.
+
+=== Slide 10 ===
+Round 1: The Early Days
+10
+Pollution
+0
+0
+0
+0
+0 kg
+1
+4
+0.5
+3.5
+20 kg
+2
+8
+2
+6
+40 kg
+3
+12
+4.5
+7.5
+60 kg
+4
+16
+8
+8
+80 kg
+5
+20
+12.5
+7.5
+100 kg
+6
+24
+18
+6
+120 kg
+7
+28
+24.5
+3.5
+140 kg
+8
+32
+32
+0
+160 kg
+Pollution
+0
+0
+0
+0
+0 kg
+1
+4
+0.5
+3.5
+20 kg
+2
+8
+2
+6
+40 kg
+3
+12
+4.5
+7.5
+60 kg
+4
+16
+8
+8
+80 kg
+5
+20
+12.5
+7.5
+100 kg
+6
+24
+18
+6
+120 kg
+7
+28
+24.5
+3.5
+140 kg
+8
+32
+32
+0
+160 kg
+
+=== Slide 11 ===
+Round 2: The Wake-Up Call
+11
+
+=== Slide 12 ===
+Round 2: The Wake-Up Call
+12
+Story:
+Greenerland
+recognizes the impact of CO
+₂
+emissions and introduces a carbon tax of €50 per ton of CO
+₂
+(equivalent to €1 for 20 kg of CO
+₂
+).
+Your task:
+Recalculate your production to maximize profit while paying the carbon tax.
+Outcome:
+Report your adjusted production, profit, and emissions to the group.
+
+=== Slide 13 ===
+Round 2: The Wake-Up Call
+13
+Let
+be
+the
+tax
+per unit of production.
+The
+carbon
+tax
+is
+€1 for 20 kg of CO₂,
+so
+because
+each unit you produce emits 20 kg of CO₂.
+Producing
+one more unit
+will
+therefore
+cost
+the marginal
+cost
++
+, the
+tax
+.
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+20 kg
+1
+2.5
+2
+8
+2
+40 kg
+2
+4
+3
+12
+4.5
+60 kg
+3
+4.5
+4
+16
+8
+80 kg
+4
+4
+5
+20
+12.5
+100 kg
+5
+2.5
+6
+24
+18
+120 kg
+6
+0
+7
+28
+24.5
+140 kg
+7
+-3.5
+8
+32
+32
+160 kg
+8
+-8
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+20 kg
+1
+2.5
+2
+8
+2
+40 kg
+2
+4
+3
+12
+4.5
+60 kg
+3
+4.5
+4
+16
+8
+80 kg
+4
+4
+5
+20
+12.5
+100 kg
+5
+2.5
+6
+24
+18
+120 kg
+6
+0
+7
+28
+24.5
+140 kg
+7
+-3.5
+8
+32
+32
+160 kg
+8
+-8
+
+=== Slide 14 ===
+Round 3: Innovation for Sustainability
+14
+
+=== Slide 15 ===
+Round 3: Innovation for Sustainability
+15
+Story:
+Greenerland
+increases the carbon tax to €100 per ton of CO
+₂
+(equivalent to €2 for 20 kg of CO
+₂
+). With the tax revenue,
+Greenerland
+subsidizes R&D in cleaner technologies. R&D being uncertain, only some firms succeed. Each firm draws a ticket to determine their R&D success in reducing emissions by 50%.
+Your task:
+If successful, your firm now emits 10 kg of CO
+₂
+per unit. If not, it remains 20 kg of CO
+₂
+per unit. Recalculate your production level based on this new efficiency and on the new tax rate.
+Outcome:
+Report your adjusted production, profit, and emissions to the group.
+
+=== Slide 16 ===
+R&D
+raffle
+16
+Draw
+a ticket to
+determine
+whether
+you
+were
+successful
+!
+
+=== Slide 17 ===
+Round 3: Innovation for Sustainability
+17
+Story:
+Greenerland
+increases the carbon tax to carbon tax of €100 per ton of CO
+₂
+(equivalent to €2 for 20 kg of CO
+₂
+). With the tax revenue,
+Greenerland
+subsidizes R&D in cleaner technologies. R&D being uncertain, only some firms succeed. Each firm draws a ticket to determine their R&D success in reducing emissions by 50%.
+Your task:
+If successful, your firm now emits 10 kg of CO
+₂
+per unit. If not, it remains 20 kg of CO
+₂
+per unit. Recalculate your production level based on this new efficiency and on the new tax rate.
+Outcome:
+Report your adjusted production, profit, and emissions to the group.
+
+=== Slide 18 ===
+High-emission firms (whose R&D failed)
+18
+The
+carbon
+tax
+is
+€2 for
+20 kg of CO₂
+,
+so
+.
+Hence
+:
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+20 kg
+2
+1.5
+2
+8
+2
+40 kg
+4
+2
+3
+12
+4.5
+60 kg
+6
+1.5
+4
+16
+8
+80 kg
+8
+0
+5
+20
+12.5
+100 kg
+10
+-2.5
+6
+24
+18
+120 kg
+12
+-6
+7
+28
+24.5
+140 kg
+14
+-10.5
+8
+32
+32
+160 kg
+16
+-16
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+20 kg
+2
+1.5
+2
+8
+2
+40 kg
+4
+2
+3
+12
+4.5
+60 kg
+6
+1.5
+4
+16
+8
+80 kg
+8
+0
+5
+20
+12.5
+100 kg
+10
+-2.5
+6
+24
+18
+120 kg
+12
+-6
+7
+28
+24.5
+140 kg
+14
+-10.5
+8
+32
+32
+160 kg
+16
+-16
+
+=== Slide 19 ===
+Low-emission firms (successful R&D)
+19
+The
+carbon
+tax
+is
+€1 for
+10 kg of CO₂
+,
+so
+.
+Hence
+:
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+10 kg
+1
+2.5
+2
+8
+2
+20 kg
+2
+4
+3
+12
+4.5
+30 kg
+3
+4.5
+4
+16
+8
+40 kg
+4
+4
+5
+20
+12.5
+50 kg
+5
+2.5
+6
+24
+18
+60 kg
+6
+0
+7
+28
+24.5
+70 kg
+7
+-3.5
+8
+32
+32
+80 kg
+8
+-8
+Pollution
+Tax
+0
+0
+0
+0 kg
+0
+0
+1
+4
+0.5
+10 kg
+1
+2.5
+2
+8
+2
+20 kg
+2
+4
+3
+12
+4.5
+30 kg
+3
+4.5
+4
+16
+8
+40 kg
+4
+4
+5
+20
+12.5
+50 kg
+5
+2.5
+6
+24
+18
+60 kg
+6
+0
+7
+28
+24.5
+70 kg
+7
+-3.5
+8
+32
+32
+80 kg
+8
+-8
+
+=== Slide 20 ===
+Round 4: The Green Market
+20
+
+=== Slide 21 ===
+Round 4: The Green Market
+21
+Story:
+A new government has been elected, which promised to cut taxes while staying on the sustainability journey.
+Greenerland
+replaces the carbon tax with a cap-and-trade system. Each firm receives 35 pollution rights, with each right covering 1 kg of CO
+₂
+. Firms can trade rights in bilateral exchanges. Technologies have not changed, with some firms polluting more than others.
+Your task:
+Decide how much to produce and whether to buy, sell, or hold pollution rights. Negotiate with another firm to maximize your profit.
+Outcome:
+Report your production, profit, and emissions, along with any trades
+
+=== Slide 22 ===
+Round 4: The Green Market
+22
+Step
+1:
+Think
+about
+your
+strategy
+, how
+much
+you
+would
+like to
+produce
+, and how
+many
+pollution
+rights
+you
+need
+for
+that
+.
+If
+you
+need
+more
+than
+35 pollution
+rights
+, how
+much
+are
+you
+willing
+to
+pay
+to
+buy
+some
+.
+If
+you
+need
+fewer
+than
+35 pollution
+rights
+, how
+much
+are
+you
+willing
+to
+accept
+to
+sell
+some
+.
+Step
+2:
+Meet
+a
+firm
+on the opposite
+side
+(a
+firm
+willing
+to
+sell
+if
+you
+want
+to
+buy
+and
+conversely
+). Try to
+agree
+on a
+trade
+and
+write
+it
+down.
+Step
+3:
+Compute
+your production, profit (including what you paid or received in trading pollution rights), and emissions.
+If your emissions are higher than your pollution rights, decrease your production and compute again your profit.
+
+=== Slide 23 ===
+Round 5: The Market Matures
+23
+
+=== Slide 24 ===
+Round 5: The Market Matures
+24
+Story:
+The cap-and-trade system continues. Each firm receives 35 pollution rights, with each right covering 1 kg of CO
+₂
+. Firms refine their strategies.
+Your task:
+Repeat the trading and production process.
+Outcome:
+Report your results and discuss how the market evolved.
+
+=== Slide 25 ===
+Round 5: The Market Matures
+25
+Step
+1:
+Rethink
+and
+adapt
+about
+your
+strategy
+if
+needed
+.
+Step
+2:
+Meet
+a
+firm
+on the opposite
+side
+(a
+firm
+willing
+to
+sell
+if
+you
+want
+to
+buy
+and
+conversely
+). Try to
+agree
+on a
+trade
+and
+write
+it
+down.
+Step
+3:
+Compute
+your production, profit (including what you paid or received in trading pollution rights), and emissions.
+If your emissions are higher than your pollution rights, decrease your production and compute again your profit.
+
+=== Slide 26 ===
+How to
+maximize
+profit?
+26
+Each unit
+you
+produce
+requires
+pollution
+rights
+,
+rights
+that
+you
+must
+buy
+or
+that
+you
+could
+have
+sold
+.
+Reminder
+of Module 1:
+never
+forget
+opportunity
+costs
+! A pollution right
+you
+use
+is
+a pollution right
+you
+could
+have
+sold
+.
+Let us call
+the
+price
+at
+which
+you
+can
+buy
+or
+sell
+a pollution right
+High
+-
+emission
+firms
+:
+Cost
+to
+produce
+is
+.
+Profit is maximum when
+, hence
+.
+Low
+-
+emission
+firms
+:
+Cost
+to
+produce
+is
+.
+Profit is maximum when
+, hence
+.
+
+=== Slide 27 ===
+Trading
+27
+Firms
+with
+the
+same
+technology
+want
+the
+same
+production and the
+same
+number
+of pollution
+rights
+,
+so
+they
+have no
+interest
+to
+trade
+.
+Hence
+,
+trade
+should
+only
+occur
+between
+a
+low-emission
+firm
+and a high-
+emission
+firm
+.
+A
+low-emission
+firm
+needs
+pollution
+rights
+.
+A high-
+emission
+firm
+needs
+pollution
+rights
+.
+The
+two
+firms
+have
+pollution
+rights
+between
+them
+.
+Here
+,
+we
+can
+compute
+the
+price
+that
+would
+occur
+on a
+market
+where
+no
+firm
+can
+make
+the
+price
+:
+
+=== Slide 28 ===
+Emissions and profit
+28
+The
+price
+we
+obtain
+is
+equivalent
+to the
+tax
+, €100 per ton! The
+reason
+is
+that
+the
+number
+of pollution
+rights
+was
+determined
+to cover the
+same
+pollution as
+obtained
+when
+there
+was
+a
+tax
+.
+High
+-
+emission
+firms
+:
+. They need 40 pollution rights and therefore must buy 5 rights. Profit is
+Low
+-
+emission
+firms
+:
+. They need 30 pollution rights and therefore can sell 5 rights. Profit is
+The optimal production and
+emission
+levels
+are the
+same
+as
+with
+the
+tax
+.
+However
+, profits are
+higher
+because
+no
+tax
+is
+paid
+.
+
+=== Slide 29 ===
+Round 6: Striving for Lower Emissions
+29
+
+=== Slide 30 ===
+Round 6: Striving for Lower Emissions
+30
+Story:
+To meet ambitious climate goals,
+Greenerland
+reduces pollution rights to 10 per firm
+, forcing greater emissions reductions. Firms can still trade their pollution rights, as previously.
+Your task:
+Reassess production and negotiate trades under the tighter cap.
+Outcome:
+Report your production, profit, and emissions.
+
+=== Slide 31 ===
+Round 6: Striving for Lower Emissions
+31
+Step
+1:
+Rethink
+and
+adapt
+about
+your
+strategy
+if
+needed
+.
+You have
+only
+10 pollution
+rights
+now
+!
+Step
+2:
+Meet
+a
+firm
+on the opposite
+side
+(a
+firm
+willing
+to
+sell
+if
+you
+want
+to
+buy
+and
+conversely
+). Try to
+agree
+on a
+trade
+and
+write
+it
+down.
+Step
+3:
+Compute
+your production, profit (including what you paid or received in trading pollution rights), and emissions.
+If your emissions are higher than your pollution rights, decrease your production and compute again your profit.
+
+=== Slide 32 ===
+Round 7: Achieving Sustainability?
+32
+
+=== Slide 33 ===
+Round 7: Achieving Sustainability?
+33
+Story:
+Greenerland
+continues with the stricter cap (10 pollution rights per firm), and firms refine their strategy.
+Your task:
+Repeat the trading and production process.
+Outcome
+:
+Report
+your final results and reflect on your journey.
+
+=== Slide 34 ===
+Round 7: Achieving Sustainability?
+34
+Step
+1:
+Rethink
+and
+adapt
+about
+your
+strategy
+if
+needed
+.
+You
+still
+have
+only
+10 pollution
+rights
+!
+Step
+2:
+Meet
+a
+firm
+on the opposite
+side
+(a
+firm
+willing
+to
+sell
+if
+you
+want
+to
+buy
+and
+conversely
+). Try to
+agree
+on a
+trade
+and
+write
+it
+down.
+Step
+3:
+Compute
+your production, profit (including what you paid or received in trading pollution rights), and emissions.
+If your emissions are higher than your pollution rights, decrease your production and compute again your profit.
+
+=== Slide 35 ===
+How to
+maximize
+profit?
+(no change!)
+35
+Each unit
+you
+produce
+requires
+pollution
+rights
+,
+rights
+that
+you
+must
+buy
+or
+that
+you
+could
+have
+sold
+.
+Reminder
+of Module 1:
+never
+forget
+opportunity
+costs
+! A pollution right
+you
+use
+is
+a pollution right
+you
+could
+have
+sold
+.
+Let us call
+the
+price
+at
+which
+you
+can
+buy
+or
+sell
+a pollution right
+High
+-
+emission
+firms
+:
+Cost
+to
+produce
+is
+.
+Profit is maximum when
+, hence
+.
+Low
+-
+emission
+firms
+:
+Cost
+to
+produce
+is
+.
+Profit is maximum when
+, hence
+.
+
+=== Slide 36 ===
+Trading
+(one main change!)
+36
+Firms
+with
+the
+same
+technology
+want
+the
+same
+production and the
+same
+number
+of pollution
+rights
+,
+so
+they
+have no
+interest
+to
+trade
+.
+Hence
+,
+trade
+should
+only
+occur
+between
+a
+low-emission
+firm
+and a high-
+emission
+firm
+.
+A
+low-emission
+firm
+needs
+pollution
+rights
+.
+A high-
+emission
+firm
+needs
+pollution
+rights
+.
+The
+two
+firms
+have
+pollution
+rights
+between
+them
+.
+Here
+,
+we
+can
+compute
+the
+price
+that
+would
+occur
+on a
+market
+where
+no
+firm
+can
+make
+the
+price
+:
+
+=== Slide 37 ===
+Emissions and profit
+37
+High
+-
+emission
+firms
+:
+. They stop producing and don’t need any pollution rights. They can sell their 10 rights. Profit is
+Low
+-
+emission
+firms
+:
+. They need 20 pollution rights and therefore must buy 10 rights. Profit is
+Notice
+that
+the direction of
+trades
+changed
+!
+Now
+high-
+emission
+firms
+sell
+their
+pollution
+rights
+to
+low-emission
+firms
+.
+
+=== Slide 38 ===
+Time to debate
+Can
+you
+think
+of pros and cons of
+market
+for pollution
+rights
+?
+38
+
+=== Slide 39 ===
+End of the lab

@@ -1,0 +1,50 @@
+﻿=== Page 1 ===
+Production and firms ECON21- Module 1 em lyon business school makers noo
+
+=== Page 2 ===
+ECON21 Microeconomics 1. 2. 3. 4. 5. Production and firms Consumption and behavior Strategic interactions Industrial organization Incentives Macroeconomics 6. 7. 8. 9. 10. Inflation and unemployment GDP and fiscal policy Money and monetary policy Environment Growth nan O 8
+
+=== Page 3 ===
+Agenda Read the case Work step by step in groups of 2 or 3 Debriefing after each step 3
+
+=== Page 4 ===
+nan Step 1 - How much to produce ?
+
+=== Page 5 ===
+nan Step 2 - Obtained profit
+
+=== Page 6 ===
+Computations 500 1000 1500 2000 2500 3000 3500 4000 Formulas for costs No costs (2500 + 2500) + 500 x (0.9 + 10 + o.s + 4.2) (2500 + 2500) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (O. 9 + IO 1 4.2) (2500 + 2500) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 500 x (O. 9 + 11 I 4.2) (2500 + 2500) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1000 x (O. 9 11 1 4.2) (2500 + 2500) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1500 x (O. 9 11 1 4.2) (2500 + 2500) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (O. 9 II I 4.2) (2500 + 2500) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 500 x (O. 9 + 15 + 1 4.2) x (O. 9 11 1 4.2) + (2500 + 2500) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (O. 9 15 1 4.2) x (O. 9 II 1 4.2) + 1000 Costs € 12,800.oo € 20,850.oo € 29,400.oo €37,950.oo € 46,500.oo € 55,050.oo € 65,600.oo € 76,150.oo Revenue €10,ooo.oo €20,ooo.oo €30,ooo.oo €40,ooo.oo €50,ooo.oo €60,ooo.oo €70,ooo.oo €80,ooo.oo Profit -€ 2,800.oo -€ 850.00 €600.oo € 2,050.oo € 3,500.oo € 4,950.oo € 4,400.oo € 3,850.oo
+
+=== Page 7 ===
+Remark The units produced after the first 3,000 (i.e., those between 3,000 and 4,000) cost 0.9 + 15 +1 + 4.2 = €21.1 which is more than the revenue they bring in (620). Producing beyond 3,000 units therefore reduces profit. We must stop producing before the cost of an extra unit exceeds the revenue it generates. 7
+
+=== Page 8 ===
+nan Step 3 - Costs additional
+
+=== Page 9 ===
+Computations 500 1000 1500 2000 2500 3000 3500 4000 Formulas for costs No costs 5000 + 5000 ) + 500 x (09 + 10 + + 42) 5000 + 5000) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) 5000 + 5000) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 500 x (O. 9 11 1 4.2) 5000 + 5000) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1000 x (O. 9 11 1 4.2) 5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1500 x (O. 9 11 1 4.2) 5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (O. 9 II I 4.2) ) 500 x (O. 9 + 10 + ().5 + 4.2) + 500 x (O. 9 + IO I + 4.2) + 2000 5000 + 5000 x (0.9 + 11 +1 +4.2) + 500 x (0.9 + 15 +1 +4.2) ) + 500 x (O. 9 + 10 + 0.5 + 4.2) + 500 x (O. 9 + IO 1 + 4.2) + 2000 5000 + 5000 x (O. 9 + II 1 4.2) + 1000 x (O. 9 + 15 1 4.2) Costs € 17,800.oo € 25,850.oo € 34,400.oo € 42,950.oo € 51,500.oo € 60,050.00 € 70,600.oo € 81,150.oo Recipe €10,ooo.oo €20,ooo.oo €30,ooo.oo €40,ooo.oo €50,ooo.oo €60,ooo.oo €70,ooo.oo €80,ooo.oo Profit -€ 7,800.oo -€ 5,850.oo -€ 4,400.oo -€ 2,950.oo -€ 1,500.oo -€ 50.00 -€ 600.00 -€ 1,150.oo
+
+=== Page 10 ===
+Remark Since the additional costs are independent of the quantity produced and sold, if Chen and Sophie decide to produce, the best outcome ( ) always or rather the smallest loss occurs at 3,000 units. However, the true maximum profit is CO, achieved by not producing at all. 10
+
+=== Page 11 ===
+nan Step 4 - Costs already spent
+
+=== Page 12 ===
+Calculations 500 1000 1500 2000 2500 3000 3500 4000 Formulas for costs 5000 already spent (5000 + 5000) + 500 x (0.9 + 10 + o.s + 4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) (5000 + 5000) + 500 x (0.9 + 10 + o.s + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 500 x (O. 9 11 1 4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1000 x (O. 9 11 1 4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 1500 x (O. 9 11 1 4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (O. 9 II I 4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (0.9 + 11 +1 +4.2) + 500 x (0.9 + 15 +1 +4.2) (5000 + 5000) + 500 x (0.9 + 10 + 0.5 + 4.2) + 500 x (0.9 + 10 + 1 + 4.2) + 2000 x (O. 9 + II 1 4.2) + 1000 x (O. 9 + 15 1 4.2) Costs € 5,000.oo € 17,800.oo € 25,850.oo € 34,400.oo € 42,950.oo € 51,500.oo € 60,050.00 € 70,600.oo € 81,150.oo Recipe €10,ooo.oo €20,ooo.oo €30,ooo.oo €40,ooo.oo €50,ooo.oo €60,ooo.oo €70,ooo.oo €80,ooo.oo Profit -€ 5,000.oo -€ 7,800.oo -€ 5,850.oo -€ 4,400.oo -€ 2,950.oo -€ 1,500.oo -€ 50.00 -€ 600.00 -€ 1,150.oo
+
+=== Page 13 ===
+Remark Producing nothing now results in a loss. It is therefore better to minimize the loss by producing 3,000 units. 13
+
+=== Page 14 ===
+nan Step 5 - Carbon
+
+=== Page 15 ===
+By T-shirt A journey of 18,500 km emits about 20 g of C02 per ton per km: 18,500 km x 20 370,000 t x km So transporting cotton from China to France generates 370,000g of C02 equivalent per ton. Cotton for one T-shirt weighs: It 300 g = 300 g x 0.0003 t So transporting cotton from China to France for one T-shirt generates: 0.0003 t x 370000 111 g Or in t: It Illg=lllgx 0.000111 t 1000000 g 15
+
+=== Page 16 ===
+Carbon tax f the carbon tax is 6100 per ton, then for one T-shirt: 0.000111 t x 100 0.0111 € Thars about 1 cent. By comparison, linen costs about 62.40 more than cotton for the same 300 g. Even with a carbon tax of 6100 per ton on maritime transport, French linen would still not be price-competitive with imported cotton. Another solution? 16
+
+=== Page 17 ===
+End of the lab makers lyon business school
