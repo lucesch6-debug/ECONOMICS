@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Economics Quiz</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="background-orb background-orb--left"></div>
+  <div class="background-orb background-orb--right"></div>
+
+  <main class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" id="heroEyebrow">Revision sprint</p>
+        <h1 id="heroTitle">Economics Quiz - Section 1</h1>
+        <p class="hero-text" id="heroText">
+          Questions 1 a 10 extraites mot pour mot de ton document, avec correction immediate, score live,
+          progression, navigation arriere et sauvegarde automatique dans le navigateur.
+        </p>
+      </div>
+
+      <section class="scoreboard" aria-label="Statistiques du quiz">
+        <article class="stat-card">
+          <span class="stat-label">Score live</span>
+          <strong class="stat-value" id="liveScore">0</strong>
+          <span class="stat-note">Bareme officiel: +1 / -0.5 / 0</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Bonnes reponses</span>
+          <strong class="stat-value" id="correctCount">0</strong>
+          <span class="stat-note">A corriger en direct</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Fausses reponses</span>
+          <strong class="stat-value" id="incorrectCount">0</strong>
+          <span class="stat-note">Les questions rouges meritent une reprise</span>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Restantes</span>
+          <strong class="stat-value" id="remainingCount">10</strong>
+          <span class="stat-note">Tu peux toujours laisser vide</span>
+        </article>
+      </section>
+    </header>
+
+    <section class="section-switcher" aria-label="Choix de la section">
+      <div class="section-switcher__copy">
+        <p class="section-switcher__eyebrow">Modes de revision</p>
+        <h2>Choisis ta base de travail</h2>
+      </div>
+      <div class="section-buttons" id="sectionButtons"></div>
+    </section>
+
+    <section class="progress-panel" aria-label="Avancement">
+      <div class="progress-meta">
+        <p class="progress-title" id="progressTitle">Question 1 sur 10</p>
+        <p class="progress-copy" id="progressCopy">0 reponse sur 10</p>
+      </div>
+      <div class="progress-track" aria-hidden="true">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </section>
+
+    <div class="layout-grid">
+      <aside class="question-panel">
+        <div class="question-panel__header">
+          <p class="question-panel__eyebrow">Navigation</p>
+          <h2>Reviens facilement sur les questions</h2>
+        </div>
+        <div class="question-grid" id="questionGrid" aria-label="Liste des questions"></div>
+        <button class="ghost-button ghost-button--wide" id="resetButton" type="button">Reinitialiser la section</button>
+      </aside>
+
+      <section class="quiz-card" aria-labelledby="questionPrompt">
+        <div class="quiz-card__topline">
+          <div>
+            <p class="question-label" id="questionLabel">Question 1</p>
+            <p class="question-meta" id="questionMeta">Question 1</p>
+          </div>
+          <span class="state-pill state-pill--empty" id="responseState">Non repondu</span>
+        </div>
+
+        <h2 class="question-prompt" id="questionPrompt"></h2>
+
+        <div class="options-list" id="optionsList"></div>
+
+        <section class="feedback-box feedback-box--idle" id="feedbackBox" aria-live="polite">
+          Choisis une reponse pour voir tout de suite si elle est juste ou fausse.
+        </section>
+
+        <div class="quiz-actions">
+          <button class="ghost-button" id="prevButton" type="button">Question precedente</button>
+          <div class="quiz-actions__right">
+            <button class="ghost-button" id="clearButton" type="button">Effacer ma reponse</button>
+            <button class="primary-button" id="nextButton" type="button">Question suivante</button>
+          </div>
+        </div>
+
+        <p class="microcopy">
+          Astuce: utilise les touches <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd> pour repondre et les fleches
+          <kbd>&larr;</kbd> <kbd>&rarr;</kbd> pour naviguer.
+        </p>
+      </section>
+    </div>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>
